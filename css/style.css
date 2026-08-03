@@ -393,3 +393,46 @@ footer {
         margin: auto;
     }
 }
+
+
+/* ===========================
+   Portfolio Evolution Page
+=========================== */
+
+.timeline-section{
+    max-width:900px;
+    margin:40px auto;
+}
+
+.timeline-card{
+    background:#ffffff;
+    border-left:6px solid #123f73;
+    border-radius:10px;
+    padding:25px;
+    margin-bottom:30px;
+    box-shadow:0 4px 12px rgba(0,0,0,.12);
+}
+
+.timeline-card h2{
+    color:#123f73;
+    margin-top:0;
+}
+
+.timeline-card h3{
+    color:#444;
+    margin-bottom:10px;
+}
+
+.timeline-card ul{
+    padding-left:20px;
+}
+
+.timeline-card li{
+    margin-bottom:10px;
+    line-height:1.7;
+}
+
+.timeline-card p{
+    text-align:justify;
+    line-height:1.8;
+}

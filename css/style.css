@@ -11,6 +11,11 @@ body {
     line-height: 1.6;
 }
 
+      p {
+          text-align: justify;
+          line-height: 1.7;
+      }
+
 /* ===================================
    Header
 =================================== */
@@ -188,9 +193,12 @@ footer {
     color: #123f73;
 }
 
-.project-card p {
-    text-align: left;
+
+    .project-card p {
+    margin-bottom: 15px;
 }
+
+
 
 /* ===================================
    Resume
